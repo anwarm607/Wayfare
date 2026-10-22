@@ -1,0 +1,155 @@
+[
+  {
+    "file": "assets/icons/brand-route.svg",
+    "source": "docs/figma/Log in.svg",
+    "sourceLayer": "SVG_3",
+    "width": 26.0,
+    "height": 28.341,
+    "viewBox": "77.0 102.33 26.0 28.341",
+    "paths": 3
+  },
+  {
+    "file": "assets/icons/email.svg",
+    "source": "docs/figma/Log in.svg",
+    "sourceLayer": "SVG_4",
+    "width": 20.0,
+    "height": 17.001,
+    "viewBox": "77.0 320.169 20.0 17.001",
+    "paths": 2
+  },
+  {
+    "file": "assets/icons/lock.svg",
+    "source": "docs/figma/Log in.svg",
+    "sourceLayer": "SVG_5",
+    "width": 18.5,
+    "height": 20.001,
+    "viewBox": "77.75 420.669 18.5 20.001",
+    "paths": 2
+  },
+  {
+    "file": "assets/icons/eye.svg",
+    "source": "docs/figma/Log in.svg",
+    "sourceLayer": "SVG_6",
+    "width": 20.096,
+    "height": 15.501,
+    "viewBox": "395.952 422.919 20.096 15.501",
+    "paths": 2
+  },
+  {
+    "file": "assets/icons/back.svg",
+    "source": "docs/figma/Set locations.svg",
+    "sourceLayer": "SVG_3",
+    "width": 11.5,
+    "height": 17.5,
+    "viewBox": "64.25 69.75 11.5 17.5",
+    "paths": 1
+  },
+  {
+    "file": "assets/icons/swap.svg",
+    "source": "docs/figma/Set locations.svg",
+    "sourceLayer": "SVG_4",
+    "width": 16.5,
+    "height": 15.0,
+    "viewBox": "392.75 208.0 16.5 15.0",
+    "paths": 4
+  },
+  {
+    "file": "assets/icons/current-location.svg",
+    "source": "docs/figma/Set locations.svg",
+    "sourceLayer": "SVG_5",
+    "width": 18.0,
+    "height": 18.0,
+    "viewBox": "99.36 376.0 18.0 18.0",
+    "paths": 6
+  },
+  {
+    "file": "assets/icons/map.svg",
+    "source": "docs/figma/Set locations.svg",
+    "sourceLayer": "SVG_6",
+    "width": 16.501,
+    "height": 16.475,
+    "viewBox": "294.269 376.767 16.501 16.475",
+    "paths": 3
+  },
+  {
+    "file": "assets/icons/home.svg",
+    "source": "docs/figma/Set locations.svg",
+    "sourceLayer": "SVG_7",
+    "width": 16.501,
+    "height": 17.615,
+    "viewBox": "86.749 497.636 16.501 17.615",
+    "paths": 2
+  },
+  {
+    "file": "assets/icons/recent.svg",
+    "source": "docs/figma/Set locations.svg",
+    "sourceLayer": "SVG_9",
+    "width": 18.002,
+    "height": 18.0,
+    "viewBox": "85.999 644.0 18.002 18.0",
+    "paths": 2
+  },
+  {
+    "file": "assets/icons/clear.svg",
+    "source": "docs/figma/Trip ready.svg",
+    "sourceLayer": "SVG_4",
+    "width": 11.0,
+    "height": 11.0,
+    "viewBox": "349.5 216.0 11.0 11.0",
+    "paths": 2
+  },
+  {
+    "file": "assets/icons/destination-pin.svg",
+    "source": "docs/figma/Route view.svg",
+    "sourceLayer": "SVG_3",
+    "width": 10.67,
+    "height": 13.465,
+    "viewBox": "352.67 133.34 10.67 13.465",
+    "paths": 2
+  },
+  {
+    "file": "assets/icons/origin-vehicle.svg",
+    "source": "docs/figma/Route view.svg",
+    "sourceLayer": "SVG_4",
+    "width": 13.331,
+    "height": 10.671,
+    "viewBox": "54.34 210.66 13.331 10.671",
+    "paths": 5
+  },
+  {
+    "file": "assets/icons/layers.svg",
+    "source": "docs/figma/Route view.svg",
+    "sourceLayer": "SVG_6",
+    "width": 21.682,
+    "height": 22.146,
+    "viewBox": "409.159 75.926 21.682 22.146",
+    "paths": 2
+  },
+  {
+    "file": "assets/icons/traffic-warning.svg",
+    "source": "docs/figma/Route view.svg",
+    "sourceLayer": "SVG_7",
+    "width": 16.708,
+    "height": 15.012,
+    "viewBox": "67.636 312.239 16.708 15.012",
+    "paths": 3
+  },
+  {
+    "file": "assets/icons/turn-right.svg",
+    "source": "docs/figma/Route view.svg",
+    "sourceLayer": "SVG_8",
+    "width": 13.671,
+    "height": 13.66,
+    "viewBox": "67.169 675.67 13.671 13.66",
+    "paths": 2
+  },
+  {
+    "file": "assets/icons/navigation.svg",
+    "source": "docs/figma/Route view.svg",
+    "sourceLayer": "SVG_10",
+    "width": 20.83,
+    "height": 20.83,
+    "viewBox": "168.58 826.17 20.83 20.83",
+    "paths": 1
+  }
+]
